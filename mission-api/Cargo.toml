@@ -1,5 +1,5 @@
 [package]
-name = "rest"
+name = "mission-api"
 version = "0.1.0"
 authors = ["Natarajan Ganapathi <natarajanmca11@gmail.com>"]
 edition = "2018"

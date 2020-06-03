@@ -1,5 +1,6 @@
 [workspace]
 
 members = [
-    "api",
+    "mission-api",
+    "mission-cli"
 ]

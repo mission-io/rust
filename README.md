@@ -1,8 +1,25 @@
 # Mission in RUST for REST
 REST Api using RUST
 
+## Build the application
+```sh
+cargo build
+```
 
+## Run the application
+```sh
+cargo run -p <package-name>
+#example
+cargo run -p mission-cli
+```
 
+## Run the test
+```sh
+cargo test
+
+# Test perticular package
+cargo test -p <package-name>
+```
 
 
 ## Debug Rust in VS Code
